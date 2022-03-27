@@ -1,0 +1,32 @@
+1. Recursion is a method in which the solution of a problem depends on ____________
+-> Smaller instances of the same problem
+
+2. Which of the following problems can’t be solved using recursion?
+-> Problems without base case
+
+3. Recursion is similar to which of the following?
+-> Loop
+
+4. In recursion, the condition for which the function will stop calling itself is ____________
+-> Base case
+
+5-> The code will run for some time and stop when the stack overflows.
+
+6-> 10 9 8 … 1
+
+7-> if(n == 0)
+
+8-> 11
+
+9-> Prints the numbers from 1 to 10
+
+10. Which of the following statements is true?
+-> Recursion uses more memory compared to iteration
+
+11-> 9
+
+12-> False
+
+13->6
+
+14->4
